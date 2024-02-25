@@ -1,0 +1,2 @@
+# ghost-airdrop
+airdrop finder
